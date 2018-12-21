@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Play a song and remove song from the playlist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60b12e38-7d57-41c7-9d63-9983e6a8471c</testCaseGuid>
+</TestCaseEntity>
